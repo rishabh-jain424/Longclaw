@@ -1,0 +1,36 @@
+Buttons Map
+
+File
+  - Open Image
+	- Capture Image
+	- Save Image
+  - Save as...
+  - Settings
+  - Exit
+
+Edit
+  - Undo
+  - Redo
+  - Flip Horizontally
+  - Flip Vertically
+  - Rotate Right
+  - Rotate Left
+  - Rotate 180 degree
+
+Image
+  - Scale Image
+  - Invert
+  - Contrast
+  - Grayscale
+	- Posterize
+
+Filters
+  - Blur
+  - Gaussian Blur
+  - Smooth
+  - Find Edges
+  - Contour
+
+Help
+  - Help
+  - About
