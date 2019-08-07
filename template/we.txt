@@ -1,0 +1,14 @@
+Longclaw
+
+Version 1.0
+
+
+
+Longclaw is more a photo enhancer and simple free photo editor, but that doesn't mean you can't get some solid results.
+It has One-click photo enhancement tools. Its interface will be instantly familiar if you have ever used any Photo enhancer
+and simple free photo editing tool.
+
+
+Developers:
+Rishabh Jain
+Rishabh Kumar
