@@ -6,8 +6,8 @@ Following steps are considered to edit a desired image:
 - A menu bar on the top of the screen and the buttons at left side of the screen provide this functionality.
 - The menu bar allows the user to open a new image and save an edited image in your computer.
 - The user may adjust image contrast and various ways to enhance image.
-- Users can even find edges and contour of the image.
-- It also allows the user rotate the image as needed.
+- It allow users to find the contour and edges of the image.
+- It also allows the user to rotate and adjust resolution of the image as needed.
 - Application also allows user to add grayscale, posterize and invert effect to the image.
 - It also provide user to cure the images which contain grains using various blurring techniques.
 - Finally user may save the edited file as needed.
