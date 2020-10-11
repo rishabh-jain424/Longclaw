@@ -12,13 +12,13 @@ def main():
     root = tk.Tk()
     app = Editor(root)
     root.title("Longclaw")
-    root.minsize(951,540)
+    root.minsize(950,550)
     root.configure()
     root.mainloop()
 
 @app.errorhandler(500)
 def server_error(e):
-    logging.exception('An error occurred during a request.')
+    logging.exception('An error while processing a request.')
     return """
     An internal error occurred: <pre>{}</pre>
     See logs for full stacktrace.
