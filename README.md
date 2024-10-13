@@ -12,4 +12,4 @@ Following steps are considered to edit a desired image:
 - It also provide user to cure the images which contain grains using various blurring techniques.
 - Finally user may save the edited file as needed.
 - In addition to the above, user can also open, save, save_as the image in a chosen location by keyboard shortcuts: 
-  - <Control-o>, <Control-s>, <Control-Shift-s> respectively.
+  - <ctrl-o>, <ctrl-s>, <ctrl-shift-s> respectively.
